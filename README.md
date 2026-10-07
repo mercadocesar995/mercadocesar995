@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/24/23/d5/2423d5efbb4bd5f6d1dc9880ea06ed22.jpg" alt="Data Analytics Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://i.pinimg.com/736x/24/23/d5/2423d5efbb4bd5f6d1dc9880ea06ed22.jpg" alt="Data Analytics Banner" width="60%" style="border-radius: 8px;">
 </p>
 
 <p align="center">
