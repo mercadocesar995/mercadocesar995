@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1000&q=80" alt="Data Analytics Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://i.pinimg.com/736x/24/23/d5/2423d5efbb4bd5f6d1dc9880ea06ed22.jpg" alt="Data Analytics Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 <p align="center">
@@ -29,16 +29,16 @@
 
 <h4 align="center">Lenguajes & Análisis de Datos</h4>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"> 
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
+  <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
-  <a href="https://numpy.org/" target="_blank"> 
+  <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
   </a>
-  <a href="https://www.sql.com/" target="_blank"> 
+  <a href="https://www.sql.com/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sql"/>
   </a>
 </p>
@@ -51,7 +51,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
   </a>
-  <a href="https://postman.com" target="_blank"> 
+  <a href="https://postman.com" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
 </p>
@@ -68,25 +68,12 @@
 
 <hr>
 
-<h3 align="center">📈 Estadísticas de GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mercadocesar995&show_icons=true&theme=radial&locale=es" alt="Estadísticas de mercadocesar995" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mercadocesar995&theme=radial" alt="Racha de contribuciones" />
-</p>
-
-<hr>
-
 <h3 align="center">📬 ¡Conéctate conmigo!</h3>
 <p align="center">
   <a href="https://github.com/mercadocesar995" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <!-- Agrega tu enlace de LinkedIn si lo deseas reemplazando # -->
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/cesar-augusto-mercado" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
