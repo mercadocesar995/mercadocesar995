@@ -1,8 +1,8 @@
-# CesarMercado995
+# Cesar Mercado
 
 <div align="center">
   <h1>¡Hola! <img width="35" src="https://raw.githubusercontent.com/martinshakev/martinshakev/main/hand-wave.gif"> Soy Cesar Mercado</h1>
-  <h3>Comunicador Social & Analista de Datos</h3>
+  <h3>Analista de Datos & Comunicador Social</h3>
 </div>
 
 <p align="center">
